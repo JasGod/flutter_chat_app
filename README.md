@@ -1,6 +1,7 @@
 # flutter_chat_app
 
 simple chat application made with flutter, when I was learning the language, the backend is firebase.
+link to the app: https://jasgod.github.io/flutter_chat_app/
 
 ## Getting Started
 
